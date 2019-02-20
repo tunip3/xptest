@@ -1,0 +1,9 @@
+<html>
+<head>
+</head>
+<body>
+<B>Your ip is
+<!--#echo var="REMOTE_ADDR" -->
+</B>
+</body>
+</html>
